@@ -2,15 +2,15 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category>none</license_category>
         <license_model>none</license_model>
-        <logo/>
+        <logo>81cd09d1dbb6081046b9fb371d961940</logo>
         <menu/>
-        <name>Azure Resource Management</name>
+        <name>Microsoft Azure Resource Management Spoke</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -25,9 +25,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-20 06:15:22</sys_created_on>
         <sys_id>b5a48f8edbfdc01046b9fb371d961996</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-20 06:15:22</sys_updated_on>
+        <sys_updated_on>2020-02-05 06:43:46</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
@@ -35,4 +35,43 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>logo</file_name>
+        <hash>8fe03679d19972ae4a3244cd9667d87b1c5de3b5c7ea4b8c76e07651d987c1d6</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1776</size_bytes>
+        <size_compressed>783</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 06:43:18</sys_created_on>
+        <sys_id>81cd09d1dbb6081046b9fb371d961940</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-02-05 06:43:18</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>b5a48f8edbfdc01046b9fb371d961996</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="81cd09d1dbb6081046b9fb371d961940">81cd09d1dbb6081046b9fb371d961940</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 06:43:18</sys_created_on>
+        <sys_id>c1cd09d1dbb6081046b9fb371d961940</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>7ZRdb9s2FIavF6D/geOuBlAUD79pxCsWJw0CeGuAZRl6VTi2YgvVJEOW7fTf75CS1TRLUex+hkGdQ758yfOQ0vnbp78rcijaXdnUUwpcUFLUy2ZV1usp3XePmadvf3lzdv5jlpHroi7aRde0E/LrqnkoyE1V7Xdd6iLguODAyB/31+Tqadu0Hbmt9uvspiY8dd73i0yI5UKQi31ZrYj4mZAsS/6X72d3H26vyO6wJrd/XsxvZoRmef6XmuX55d1lsgAOeX71OyV003XbSZ4fj0d+VLxp1/l1u9huyuUuR2EehTgpRzMAvupWNK4RrZ+VCpSUqymdLz4X7UdMkES9m75iLYUQ0WqQTJ6qsv70mhBCCHkaRemUiu0TJZ/755uzH8ixXHWbKTWpf1OU6013yg5lcbxo4hwiiIn/eA6Lh6rIHhbLT+u22de417o4kmcK3M5kt10siyndtsWuaA9FKnS76DbksayqKf1J4Z5mlhKc/Zs03FhgUnGwbpnheQnFRHwGh61Q2EjvY+jVHM8JgIHkQpsk9qqfElVBptaNsREWa1xGNxldURiNVDDsJNHBznELoAN2CWeW0TMOAOZamCEyDsfnWvMQNMPjAxmFTidPmdxSA6cQfdPSMYfkBzZ2Z8O4ETqu642KpQuvZ5g5KxMI5Rhm1poBC/sKEs1f8jThQl+GgafkLkhmRM9Ss776xFL2y8eihHNzFWOmPA/gZmgNMfagmYqBlbYPNNh7sFwp+ALTxcIhsXTs5Im4ExU74oMTPo/Fz1OhTFruFSShT/iSQRTEsxtjBHTAWoR/yVHEWao/5UEpZ6gM3jAdeHCWYea9RwZspPEdaJ5LaQZoIvjhAoZ/Q0tUnU8bMePVlD6MMW7nXjqunf82rkGoKwi4jM3wRgmRrpRPNy5dKS3UGBuP83q4bHhF0GVAP8bmIIEHrb4QSwcAkIj1G3U9sTmWbHAgEpNqhpnGe3ni57lKONgI5hm/Bt/usovfEG7oiea79Puf5n+hGb/f+PwHQzl8nvAGAAA=</data>
+        <length>1032</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="81cd09d1dbb6081046b9fb371d961940">81cd09d1dbb6081046b9fb371d961940</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 06:43:18</sys_created_on>
+        <sys_id>45cd09d1dbb6081046b9fb371d961940</sys_id>
+    </sys_attachment_doc>
 </record_update>
